@@ -15,4 +15,4 @@ Analizar, diseñar, desarrollar, probar e implementar un aplicativo móvil, cuya
 
 2.[RP- Opus Backend](https://github.com/Juan2307/Opus_Backend.git)
 
-3.[Analisis - Diagrama  ER-](https://github.com/Juan2307/Opus/tree/main/Analisis
+3.[Analisis - Diagrama  ER-](https://github.com/Juan2307/Opus/tree/main/Analisis)
