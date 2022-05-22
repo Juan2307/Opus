@@ -11,7 +11,7 @@ Analizar, diseñar, desarrollar, probar e implementar un aplicativo móvil, cuya
     -Buscar sitio segun mi presupuesto
 
 ### TABLA DE CONTENIDO
-1.[RP- Opus  Landing Page](https://github.com/Juan2307/Opus_Landing_Page.git)
+1.[RP- Opus  Landing Page](https://github.com/Juan2307/Opus_Landing_Page2.git)
 
 2.[RP- Opus Backend](https://github.com/Juan2307/Opus_Backend.git)
 
