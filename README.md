@@ -18,3 +18,5 @@ Analizar, diseñar, desarrollar, probar e implementar un aplicativo móvil, cuya
 2.[RP- Opus App](https://github.com/Juan2307/Opus_Version1.git)
 
 3.[Analisis - Diagrama  ER-](https://github.com/Juan2307/Opus/tree/main/Analisis)
+
+Gracias
